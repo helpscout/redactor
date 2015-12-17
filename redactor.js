@@ -1,13 +1,11 @@
 /*
- Redactor v9.2.1
- Updated: Mar 19, 2014
+ Helpscout-Redactor v0.0.1
+ Updated: Dec 17, 2015
 
+ https://github.com/helpscout/redactor/
+ A custom fork of Redactor v9.2.1
  http://imperavi.com/redactor/
 
- Copyright (c) 2009-2014, Imperavi LLC.
- License: http://imperavi.com/redactor/license/
-
- Usage: $('#content').redactor();
  */
 
 (function($)
